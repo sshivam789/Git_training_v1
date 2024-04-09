@@ -2,3 +2,4 @@ Git revert commit 1.:wq
 
 This is sample test file 2
 This is comparison lecture, change in file 2
+this is the stash lecture, Change in file 2
